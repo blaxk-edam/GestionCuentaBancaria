@@ -1,5 +1,9 @@
 package com.comfenalco.cuentas;
 
+/*
+ * Eminson Alvarez, Harold Burgos, Fredd Castellon, Santiago Guerrero, Santiago Guerrero
+ */
+
 import java.util.Scanner;
 
 public class App {
